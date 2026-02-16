@@ -1,9 +1,16 @@
-#Hlaing Min Oo
+# Hlaing Min Oo
 
 **AI Engineer**
+
 ---
-I’m interested in AI, Computer Vision, NLP, AI Ethics, and Data Ethics.
-📫 How to reach me ... hlaingminoo@globalwalkers.co.jp
+
+### 🎯 Interests
+I am interested in **AI, Computer Vision, NLP, AI Ethics, and Data Ethics.** My focus lies in building responsible and efficient intelligent systems.
+
+---
+
+### 📫 Contact
+* **Email:** [hlaingminoo@globalwalkers.co.jp](mailto:hlaingminoo@globalwalkers.co.jp)
 <!--
 **hlaingmin0/hlaingmin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
