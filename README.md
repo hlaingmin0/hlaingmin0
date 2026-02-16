@@ -1,6 +1,6 @@
 # Hlaing Min Oo
 
-**AI Engineer**
+**AI ENGINEER**
 
 ---
 
