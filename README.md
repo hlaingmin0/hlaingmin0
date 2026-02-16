@@ -1,5 +1,7 @@
-Hlaing Min Oo
-AI Engineer
+#Hlaing Min Oo
+
+**AI Engineer**
+---
 I’m interested in AI, Computer Vision, NLP, AI Ethics, and Data Ethics.
 📫 How to reach me ... hlaingminoo@globalwalkers.co.jp
 <!--
